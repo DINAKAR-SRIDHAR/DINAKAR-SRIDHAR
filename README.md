@@ -1,5 +1,4 @@
-## Hi there 👋
-
+👋 Hi, I'm Dinakar S
 <!--
 **DINAKAR-SRIDHAR/DINAKAR-SRIDHAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Computer Science Engineer student with a strong foundation in Java Full Stack development and DevOps. I have hands-on experience in building end-to-end web applications using Java, Spring Boot, Spring MVC, Hibernate, and Servlets for backend development, along with HTML, CSS, JavaScript, and React.js for frontend development.
+
+I have worked with MySQL for database management and used Git and GitHub for version control. I also have practical knowledge of DevOps tools and practices, including Maven, Jenkins for CI/CD pipelines, Docker for containerization, and Linux for application deployment and server management.
+
+I am eager to apply my technical skills in a real-world environment, contribute to scalable software solutions, and grow as a professional software developer.
